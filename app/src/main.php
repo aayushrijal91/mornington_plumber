@@ -44,7 +44,7 @@
                             <path d="M9.50034 0.479187C4.30445 0.479187 0.0820312 4.7016 0.0820312 9.8975C0.0820312 12.0928 1.58085 14.5376 3.3189 16.758C5.05708 18.9783 7.07154 20.9524 8.23112 22.0319C8.92996 22.6825 10.0384 22.6838 10.7383 22.0345C11.9015 20.9557 13.9234 18.9813 15.6684 16.7606C17.4133 14.54 18.9186 12.0943 18.9186 9.89762C18.9186 4.70173 14.6962 0.479316 9.50034 0.479316V0.479187ZM9.50034 4.96131C11.6025 4.96131 13.3168 6.67464 13.3168 8.77682C13.3168 10.879 11.6026 12.5923 9.50034 12.5923C7.3981 12.5923 5.68387 10.879 5.68387 8.77682C5.68387 6.67464 7.3981 4.96131 9.50034 4.96131Z" fill="#FF69D5" />
                         </svg>
 
-                        Servicing All of South Melbourne
+                        Servicing All of Mornington
                     </p>
                 </div>
             </div>
@@ -95,7 +95,7 @@
                 <p class="font-extrabold text-xl text-white relative">Open now</p>
             </div>
 
-            <h1 class="text-5xl md:text-64 font-merge text-white leading-none pt-4">Your Fast, Local <span class="text-pink">South Melbourne</span> Plumber Experts</h1>
+            <h1 class="text-5xl md:text-64 font-merge text-white leading-none pt-4">Your Fast, Local <span class="text-pink">Mornington</span> Plumber Experts</h1>
 
             <div class="w-fit flex flex-wrap gap-3 mt-10 md:mt-20">
                 <a href="#form" class="w-fit flex items-center rounded-lg leading-none shadow-md bg-pink text-white font-bold h-[53px] px-7">Book Online</a>
@@ -149,7 +149,7 @@
                         </svg>
                     </div>
 
-                    <p class="text-secondary group-hover:text-primary duration-150 font-merge text-2xl md:text-3xl mt-5 md:mt-10 capitalize">Local Southern Melbourne Team</p>
+                    <p class="text-secondary group-hover:text-primary duration-150 font-merge text-2xl md:text-3xl mt-5 md:mt-10 capitalize">Local Mornington Team</p>
                 </div>
             </div>
 
@@ -188,7 +188,7 @@
                         </svg>
                     </div>
 
-                    <p class="text-secondary group-hover:text-primary duration-150 font-merge text-2xl md:text-3xl mt-5 md:mt-10 capitalize">Discounts For Southern Locals</p>
+                    <p class="text-secondary group-hover:text-primary duration-150 font-merge text-2xl md:text-3xl mt-5 md:mt-10 capitalize">Discounts For Mornington Locals</p>
                 </div>
             </div>
         </div>
@@ -284,7 +284,7 @@
 <?= renderImg('isolation-2.png', 'background', 'w-full') ?>
 <section class="service py-20 md:py-32 bg-secondary" id="services">
     <div class="container">
-        <p class="capitalize text-4xl md:text-5xl lg:text-64 font-merge text-white text-center leading-none">Fast south melbourne <span class="text-pink">Services</span></p>
+        <p class="capitalize text-4xl md:text-5xl lg:text-64 font-merge text-white text-center leading-none">Fast Mornington <span class="text-pink">Services</span></p>
 
         <div class="flex flex-wrap gap-y-6 lg:-mx-3 mt-16 md:mt-24" id="serviceSlider">
             <?php $services = [
@@ -327,12 +327,12 @@
     <div class="container py-24 md:py-40">
         <div class="rounded-10 bg-secondary text-white overflow-clip shadow-lg flex flex-wrap items-end xl:items-center justify-between">
             <div class="w-full md:w-7/12 px-3 xl:px-24 py-10">
-                <p class="text-4xl xl:text-5xl font-merge leading-none">Professional Licensed Plumbers in South Melbourne</p>
+                <p class="text-4xl xl:text-5xl font-merge leading-none">Professional Licensed Plumbers in Mornington</p>
 
                 <div class="description text-base xl:text-lg py-5 xl:py-14">
                     <p>Plumbing and drain problems never happen at a good time. It can often seem like they only occur at the worst times or just before holidays and special occasions when your home will be full of friends and family.</p>
 
-                    <p>At Southern Plumber, we understand the inconvenience these issues bring. Our team of skilled professionals is available round the clock, even on holidays, to provide efficient and reliable plumbing services.</p>
+                    <p>At Mornington Plumber, we understand the inconvenience these issues bring. Our team of skilled professionals is available round the clock, even on holidays, to provide efficient and reliable plumbing services.</p>
                 </div>
 
                 <div class="w-fit flex flex-wrap gap-3">
@@ -352,10 +352,10 @@
             </div>
 
             <div class="w-full md:w-7/12 px-3 xl:px-24 py-10 order-1 md:order-2">
-                <p class="text-4xl xl:text-5xl font-merge leading-none">Local Specialist Plumbers in South Melbourne</p>
+                <p class="text-4xl xl:text-5xl font-merge leading-none">Local Specialist Plumbers in Mornington</p>
 
                 <div class="description text-base xl:text-lg py-5 xl:py-14">
-                    <p>Whether you need a toilet repair or Leak repair or installation, or there’s a problem with your hot water, our qualified Southern Plumber Melbourne will fix your plumbing emergency today so you can breathe a sigh of relief.</p>
+                    <p>Whether you need a toilet repair or Leak repair or installation, or there’s a problem with your hot water, our qualified Mornington Plumber Melbourne will fix your plumbing emergency today so you can breathe a sigh of relief.</p>
 
                     <p>We offer 24/7 emergency plumbing services so you can be sure your plumbing issues will be taken care of quickly, effectively, and at a reasonable price.</p>
                 </div>
@@ -479,10 +479,10 @@
             <div class="w-full lg:w-7/12">
                 <div class="bg-secondary rounded-10 text-center text-white overflow-clip">
                     <div class="px-3 md:px-20 lg:px-5 xl:px-20 pt-14 md:pt-20 pb-10">
-                        <p class="capitalize text-4xl md:text-64 font-merge text-pink text-center leading-none">Why Choose<br /> <span class="text-white">southern plumber?</span></p>
+                        <p class="capitalize text-4xl md:text-64 font-merge text-pink text-center leading-none">Why Choose<br /> <span class="text-white">Mornington plumber?</span></p>
 
                         <p class="text-base md:text-lg py-5 md:py-14">
-                            We are licensed, insured and qualified plumbers in South Melbourne, highly experienced in hot water systems repairs & installation, blocked drains, leaking detection and Emergency commercial and residential plumbing services.
+                            We are licensed, insured and qualified plumbers in Mornington, highly experienced in hot water systems repairs & installation, blocked drains, leaking detection and Emergency commercial and residential plumbing services.
                         </p>
 
                         <div class="flex flex-wrap justify-center gap-3">
@@ -505,7 +505,7 @@
                     </div>
                     <div class="w-9/12 md:w-10/12">
                         <p class="text-xl md:text-3xl text-white font-merge">24 Hour Service</p>
-                        <p class="text-sm md:text-lg">We travel to all areas of South Melbourne</p>
+                        <p class="text-sm md:text-lg">We travel to all areas of Mornington</p>
                     </div>
                 </div>
 
@@ -810,27 +810,27 @@
             <?php $faqs = [
                 [
                     "question" => "How do I know if I have a leak?",
-                    "answer" => "If you notice unexplained increases in your water bill, damp or discolored patches on walls or ceilings, or hear the sound of running water when no fixtures are in use, you may have a leak. Our professional licensed plumbers in South Melbourne specialize in leak detection and can promptly assess and address any potential issues.",
+                    "answer" => "If you notice unexplained increases in your water bill, damp or discolored patches on walls or ceilings, or hear the sound of running water when no fixtures are in use, you may have a leak. Our professional licensed plumbers in Mornington specialize in leak detection and can promptly assess and address any potential issues.",
                 ],
 
                 [
                     "question" => "Do you operate after business hours?",
-                    "answer" => "Yes, we understand that plumbing emergencies don't follow a 9-to-5 schedule. Our 24/7 emergency plumbing services are available round the clock, including holidays. Whether it's a burst pipe or a clogged drain, our local Southern Melbourne team is ready to provide efficient and reliable solutions whenever you need them.",
+                    "answer" => "Yes, we understand that plumbing emergencies don't follow a 9-to-5 schedule. Our 24/7 emergency plumbing services are available round the clock, including holidays. Whether it's a burst pipe or a clogged drain, our local Mornington team is ready to provide efficient and reliable solutions whenever you need them.",
                 ],
 
                 [
                     "question" => "Are you fully licensed plumbing company?",
-                    "answer" => "Absolutely. We are a family-owned business with licensed, insured, and qualified plumbers in South Melbourne. Our team has extensive experience in various plumbing services, including hot water systems repairs and installation, blocked drains, leak detection, and emergency commercial and residential plumbing services.",
+                    "answer" => "Absolutely. We are a family-owned business with licensed, insured, and qualified plumbers in Mornington. Our team has extensive experience in various plumbing services, including hot water systems repairs and installation, blocked drains, leak detection, and emergency commercial and residential plumbing services.",
                 ],
 
                 [
                     "question" => "What are the plumbing services that you provide?",
-                    "answer" => "We offer a comprehensive range of plumbing services, including but not limited to toilet repairs, leak detection and repair, hot water systems repairs and installation, and emergency plumbing services. Our Southern Melbourne team of professional plumbers is equipped to handle any plumbing issue promptly and effectively.",
+                    "answer" => "We offer a comprehensive range of plumbing services, including but not limited to toilet repairs, leak detection and repair, hot water systems repairs and installation, and emergency plumbing services. Our Mornington team of professional plumbers is equipped to handle any plumbing issue promptly and effectively.",
                 ],
 
                 [
                     "question" => "Do your services include Warranties or Guarantees?",
-                    "answer" => "Yes, we stand by the quality of our work. We offer warranties and guarantees on our plumbing services. Our set prices, determined upon inspection, ensure transparency and fairness, and we are committed to customer satisfaction. You can trust our local specialist plumbers in South Melbourne to deliver reliable and lasting solutions.",
+                    "answer" => "Yes, we stand by the quality of our work. We offer warranties and guarantees on our plumbing services. Our set prices, determined upon inspection, ensure transparency and fairness, and we are committed to customer satisfaction. You can trust our local specialist plumbers in Mornington to deliver reliable and lasting solutions.",
                 ],
 
                 [
